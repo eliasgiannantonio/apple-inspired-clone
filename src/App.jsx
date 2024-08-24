@@ -1,8 +1,15 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Highlights from './components/Highlights'
 
 function App() {
   return (
-    <div>App</div>
+    <main className='bg-black'>
+      <Navbar/>
+      <Hero/>
+      <Highlights/>
+    </main>
   )
 }
 
