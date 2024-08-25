@@ -48,8 +48,8 @@ function Hero() {
         </div>
       </div>
       <div id="cta" className='flex flex-col items-center translate-y-20 opacity-0'>
-        <a href="#highlights" className='btn'>Comprar</a>
-        <p className='text-xl font-normal'>Desde USD $199 por mes o USD $999</p>
+        <a href="#highlights" className='btn'>Buy</a>
+        <p className='text-xl font-normal'>From $199/month or $999</p>
       </div>
     </section>
   )
